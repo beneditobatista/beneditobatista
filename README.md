@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **benedito_batista@hotmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
